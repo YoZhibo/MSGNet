@@ -1,6 +1,6 @@
 # MSGNet (AAAI2024)
 
-Paper Link:[MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting](https://arxiv.org/abs/2401.00423)
+Paper Link: [MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting](https://arxiv.org/abs/2401.00423)
 
 # Usage
 
