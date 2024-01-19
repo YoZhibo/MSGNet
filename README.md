@@ -8,5 +8,5 @@ Paper Link: [MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivar
   - You can use the following command:`sh ./scripts/ETTh1.sh`.
 
 - Train your model
-  - Add model file in the folder `./models/model.py`.
+  - Add model file in the folder `./models`.
   - Add model in the ***class*** Exp_Main.
