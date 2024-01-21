@@ -24,7 +24,7 @@ MSGNet employs several ScaleGraph blocks, each encompassing three pivotal module
 Forecast results with 96 review window and prediction length {96, 192, 336, 720}. The best result is represented in bold, followed by underline.
 
 <div align=center>
-<img src="https://github.com/YoZhibo/MSGNet/blob/main/pic/main_result.jpg" width='65%'>
+<img src="https://github.com/YoZhibo/MSGNet/blob/main/pic/main_result.jpg" width='75%'>
 </div>
 
 ## Citation
