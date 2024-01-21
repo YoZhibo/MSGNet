@@ -2,7 +2,7 @@
 
 Paper Link:[MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting](https://arxiv.org/abs/2401.00423)
 
-# Usage
+## Usage
 
 - Train and evaluate MSGNet
   - You can use the following command:`sh ./scripts/ETTh1.sh`.
@@ -23,6 +23,7 @@ Paper Link:[MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivari
 ```
 
 ## Acknowledgement
+
 We appreciate the valuable contributions of the following GitHub.
 
 - LTSF-Linear (https://github.com/cure-lab/LTSF-Linear)
