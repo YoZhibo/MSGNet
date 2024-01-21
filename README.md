@@ -1,6 +1,6 @@
 # MSGNet (AAAI2024)
 
-Paper Link: [MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting](https://arxiv.org/abs/2401.00423)
+Paper Link:[MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivariate Time Series Forecasting](https://arxiv.org/abs/2401.00423)
 
 ## Usage
 
@@ -10,6 +10,12 @@ Paper Link: [MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivar
 - Train your model
   - Add model file in the folder `./models/.py`.
   - Add model in the ***class*** Exp_Main.
+
+## Model
+
+MSGNet employs several ScaleGraph blocks, each encompassing three pivotal modules: an FFT module for multi-scale data identification, an adaptive graph convolution module for inter-series correlation learning within a time scale, and a multi-head attention module for intra-series correlation learning.
+
+![](C:\Users\是离离呀\Desktop\model1_update_00.jpg)
 
 ## Citation
 
