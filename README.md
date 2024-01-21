@@ -15,7 +15,9 @@ Paper Link:[MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivari
 
 MSGNet employs several ScaleGraph blocks, each encompassing three pivotal modules: an FFT module for multi-scale data identification, an adaptive graph convolution module for inter-series correlation learning within a time scale, and a multi-head attention module for intra-series correlation learning.
 
-<img src="https://github.com/YoZhibo/MSGNet/blob/main/pic/model1.jpg" width='50%'>
+<img src="https://github.com/YoZhibo/MSGNet/blob/main/pic/model1.jpg" width='47%'>
+<img src="https://github.com/YoZhibo/MSGNet/blob/main/pic/model2.jpg" width='47%'>
+
 
 ## Citation
 
