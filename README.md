@@ -12,7 +12,7 @@ Paper Link:[MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivari
   - Add model in the ***class*** Exp_Main.
 
 - Flight dataset
-  - You can obtain the dataset from [Google Drive](https://drive.google.com/file/d/1PC2G6XpYDgbmyoyNlgnkqnZeCGsN7Vl-/view?usp=sharing). Then please place it in the folder `./dataset`.
+  - You can obtain the dataset from [Google Drive](https://drive.google.com/drive/folders/1JSZByfM0Ghat3g_D3a-puTZ2JsfebNWL?usp=sharing). Then please place it in the folder `./dataset`.
 
 ## Model
 
