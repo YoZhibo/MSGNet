@@ -8,8 +8,11 @@ Paper Link:[MSGNet: Learning Multi-Scale Inter-Series Correlations for Multivari
   - You can use the following command:`sh ./scripts/ETTh1.sh`.
 
 - Train your model
-  - Add model file in the folder `./models/.py`.
+  - Add model file in the folder `./models/your_model.py`.
   - Add model in the ***class*** Exp_Main.
+
+- Flight dataset
+  - You can obtain the dataset from [Google Drive](https://drive.google.com/file/d/1PC2G6XpYDgbmyoyNlgnkqnZeCGsN7Vl-/view?usp=sharing). Then please place it in the folder `./dataset`.
 
 ## Model
 
